@@ -4,6 +4,8 @@ Topic modelling and Text summarization project for the Text mining and search ex
 ## NIPS Papers: Topic Modelling and Text Summarization
  Authors: Gaetano Chiriaco, Riccardo Porcedda, Gianmarco Russo MSc Data Science
 
+![alt text](https://github.com/RPorcedda/Text-Mining/blob/main/GitHub%20Banner.png?raw=true)
+
 WARNING:The original work was conducted in a different folder.
 Before executing the notebooks, please, modify all paths in the import.
 
