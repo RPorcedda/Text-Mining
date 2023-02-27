@@ -1,7 +1,23 @@
 ![alt text](https://github.com/RPorcedda/Text-Mining/blob/main/GitHub%20Banner.png?raw=true)
 
 ## NIPS Papers: Topic Modelling and Text Summarization
-Authors: Gaetano Chiriaco, Riccardo Porcedda, Gianmarco Russo MSc Data Science
+Authors:
+  Gaetano Chiriaco
+  <div align="center">
+    <a href="https://www.linkedin.com/in/gaetano-chiriaco-68085820b/" style="text-decoration:none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="2%" alt="" /></a>
+  </div>
+  Riccardo Porcedda
+  <div align="center">
+    <a href="https://www.linkedin.com/in/riccardo-porcedda/" style="text-decoration:none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="2%" alt="" /></a>
+  </div>
+  Gianmarco Russo
+  <div align="center">
+    <a href="https://www.linkedin.com/in/grusso98/" style="text-decoration:none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="2%" alt="" /></a>
+  </div>
+  
 Text Mining & Search Exam Project
 MSc Data Science @ University of Milan Bicocca
 
