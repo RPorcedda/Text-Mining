@@ -1,10 +1,9 @@
-## Text-Mining
-Topic modelling and Text summarization project for the Text mining and search exam, Data Science Msc @ University of Milan Bicocca
+![alt text](https://github.com/RPorcedda/Text-Mining/blob/main/GitHub%20Banner.png?raw=true)
 
 ## NIPS Papers: Topic Modelling and Text Summarization
- Authors: Gaetano Chiriaco, Riccardo Porcedda, Gianmarco Russo MSc Data Science
-
-![alt text](https://github.com/RPorcedda/Text-Mining/blob/main/GitHub%20Banner.png?raw=true)
+Authors: Gaetano Chiriaco, Riccardo Porcedda, Gianmarco Russo MSc Data Science
+Text Mining & Search Exam Project
+MSc Data Science @ University of Milan Bicocca
 
 WARNING:The original work was conducted in a different folder.
 Before executing the notebooks, please, modify all paths in the import.
